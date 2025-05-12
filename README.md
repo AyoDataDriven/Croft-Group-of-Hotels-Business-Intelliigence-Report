@@ -41,32 +41,40 @@ To this industry, success is defined when there is an increase in revenue which 
 #### Here are some key insights and recommendations: 
 🔝 Top Sales Performer
  • Leo generated $16.33M in revenue and received high customer ratings.
+ 
  ✅ Recommendation: Top performers like Leo should mentor others. Introduce bonuses to motivate the sales team.
 
 📅 Sales Trends
  • July had the highest sales ($5.14M), April the lowest ($2.8M).
+ 
  ✅ Recommendation: Launch seasonal promotions in April. Replicate July’s successful strategies across other months.
 
 🛏️ Room Type Revenue
  • Studio rooms led with $21.1M; Royal Suites were the lowest at $4M.
+ 
  ✅ Recommendation: Add luxury perks to Royal Suites (e.g., spa, airport transfers). Gather guest feedback to boost appeal.
 
 🏨 Hotel Type Performance
  • City hotels outperformed resort hotels, generating 67% of total revenue.
+ 
  ✅ Recommendation: Prioritise investment and service upgrades in City Hotels.
 
 🌟 Top Customer
  • Michael Smith spent $64K+ this year.
+ 
  ✅ Recommendation: Offer personalised service and loyalty rewards to enhance retention and referrals.
 
 🏆 Best Performing Hotel
  • Lexis Suites led with $15.72M.
+ 
  ✅ Recommendation: Study and replicate Lexis Suites’ success strategies in other branches.
 
 🌐 Booking Channels
  • Booking.com generated over $16M.
+ 
  ✅ Recommendation: Maintain platform stability through regular tech monitoring.
 
 💳 Preferred Payment Method
  • Credit cards used in 36% of transactions.
+ 
  ✅ Recommendation: Ensure seamless credit card processing across all locations.
